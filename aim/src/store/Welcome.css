@@ -1,0 +1,58 @@
+
+.cont{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.navbar{
+    display: flex;
+    gap: 700px;
+    display: flex;
+    gap: 700px;
+    background: #2c5e15;
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+.Inc{
+    margin-left: 6px;
+    display: flex;
+    margin-left: 30px;
+    align-items: center;
+}
+.buttons{
+    display: flex;
+    gap: 30px;
+}
+.bt1{
+    font-size: 15px;
+    cursor: pointer;
+    background: #16855f;
+    border: 1px solid #16855f;
+    color: #f9f6f0;
+    width: 90px;
+    height: 35px;
+    border-radius: 10px;
+
+}
+.user{
+    border-radius: 18px;
+    font-size: 22px;
+    height: 33px;
+    background: #042f1d;
+    width: 38px;
+    text-align: center;
+}
+
+.div1{
+    display: flex;
+    gap: 9px;
+    align-items: flex-start;
+    margin-top: 6px;
+
+}
+.p1{
+    font-size: 18px;
+}
